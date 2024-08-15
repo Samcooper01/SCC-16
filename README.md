@@ -1,4 +1,4 @@
-# SK-16 CPU
+# SCC-16 CPU
 
 ## Overview
 The SK-16 CPU is designed to execute a small set of simple instructions quickly. This document provides a comprehensive guide to the SK-16 CPU's instructions, registers, and operational cycle.
