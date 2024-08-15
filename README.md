@@ -1,10 +1,10 @@
 # SCC-16 CPU
 
 ## Overview
-The SK-16 CPU is designed to execute a small set of simple instructions quickly. This document provides a comprehensive guide to the SK-16 CPU's instructions, registers, and operational cycle.
+The SCC-16 CPU is designed to execute a small set of simple instructions quickly. This document provides a comprehensive guide to the SCC-16 CPU's instructions, registers, and operational cycle.
 
 ## Instructions
-The SK-16 CPU uses a straightforward instruction set, where each instruction follows the format: Opcode - [Operand 1] - [Operand 2].
+The SCC-16 CPU uses a straightforward instruction set, where each instruction follows the format: Opcode - [Operand 1] - [Operand 2].
 
 ### Arithmetic Instructions
 ```
